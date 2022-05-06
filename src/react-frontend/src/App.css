@@ -1,0 +1,26 @@
+.btn {
+	appearance: none;
+    border: 0;
+    border-radius: 5px;
+	color: #fff;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: bold;
+	transition: box-shadow 0.15s ease-in-out;
+}
+
+.btn:hover {
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+}
+
+.btn:active {
+	box-shadow: 0 0 0;
+}
+
+.edit-btn {
+    background: #4676D7;
+}
+
+.delete-btn {
+    background: #d74646;
+}

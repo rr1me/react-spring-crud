@@ -1,0 +1,27 @@
+.home {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    margin: 10% auto;
+    padding: 10px;
+    border-radius: 15px;
+    background-color:  rgba(0, 0, 0, 0.068);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.26);
+}
+
+.home > h5 {
+    margin-bottom: auto;
+}
+
+.home > hr {
+    margin: 1px -1px;
+}
+
+.home > ul {
+    margin: 5px 30px;
+}
+
+.home > ul > li{
+    margin: 10px 0px;
+}
